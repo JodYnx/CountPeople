@@ -18,4 +18,4 @@ This project is an advanced computer vision application designed to count people
 Ensure you have **Python 3.8+** installed on your system, along with the following required libraries:
 
 ```bash
-pip install opencv-python ultralytics
+pip install -r requirements.txt
